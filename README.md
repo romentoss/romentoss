@@ -16,6 +16,8 @@
 </div>
  ## About me
 
+ 
+
 🖥️ I'm a full stack Web Developer from Spain (Canary Islands) 🌴🌴
 
 🙇 I am currently in the process of improving to an expert level in the [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=plastic)](https://angular.io/) framework as front , on the other hand as back improving with the use of the
