@@ -1,6 +1,9 @@
-### Hi there,  I'm Romen 👋
+<div align="center">
+<h1 align="center">Hi there, I'm <a href="https://romencv.netlify.app/">Romen</a> 👋</h1>
+</div>
+<img  width="1500" height="200" src="https://github.com/romentoss/romentoss/blob/master/fondo.png?raw=true">
 
-<img>
+
 <!--
 **romentoss/romentoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
