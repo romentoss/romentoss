@@ -15,7 +15,7 @@
 
 </div>
 
- ## About me
+ ## **About me**
 
  
 
@@ -42,7 +42,7 @@ framework, always prioritizing the use of [![TypeScript Badge](https://img.shiel
 [![NgRx Badge](https://img.shields.io/badge/NgRx-B7178C?style=for-the-badge&logo=ReactiveX&style=plastic)](https://ngrx.io/)
 [![SonarQube Badge](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=fff&style=plastic)](https://sentrio.io/blog/que-es-sonarqube/)
 
-#### Tools:
+#### **Tools**:
 
 
 ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=plastic)
@@ -55,7 +55,7 @@ framework, always prioritizing the use of [![TypeScript Badge](https://img.shiel
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=plastic)
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ **&nbsp;GitHub Analytics**
 
 <p align="center">
 <a href="https://github.com/romentoss">
@@ -63,17 +63,4 @@ framework, always prioritizing the use of [![TypeScript Badge](https://img.shiel
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=romentoss&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
-<!--
-**romentoss/romentoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
