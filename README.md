@@ -3,6 +3,10 @@
 </div>
 <img  width="1500" height="200" src="https://github.com/romentoss/romentoss/blob/master/fondo.png?raw=true">
 
+  ## 🔗 **You can reach me here**
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romentos/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=padilla.naranja@gmail.com)
+
 
 <!--
 **romentoss/romentoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
