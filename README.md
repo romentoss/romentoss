@@ -20,7 +20,7 @@
 🖥️ I'm a full stack Web Developer from Spain (Canary Islands) 🌴🌴
 
 🙇 I am currently in the process of improving to an expert level in the angular 📕 framework as front , on the other hand as back improving with the use of the
-[![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=plastic)(https://nestjs.com/)]
+[![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=plastic)](https://nestjs.com/)
 framework, always prioritizing the use of typescript 📘 on both sides of development, and in turn learning about crm from salesforce ☁️.
 
 <!--
